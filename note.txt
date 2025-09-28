@@ -1,1 +1,3 @@
-Python - Global Variables
+Python - Slicing Strings
+
+Django Template Variables

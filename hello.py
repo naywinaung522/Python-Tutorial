@@ -1,4 +1,2 @@
-a = 4
-A = "Sally"
-
-print(A)
+txt = "The best things in life are free!"
+print("free" in txt)
