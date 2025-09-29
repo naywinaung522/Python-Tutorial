@@ -1,2 +1,2 @@
-txt = "The best things in life are free!"
-print("free" in txt)
+mylist = ["apple", "banana", "cherry"]
+print(type(mylist))
